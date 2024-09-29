@@ -7,12 +7,6 @@
   <h1>mini-css-extract-plugin</h1>
 </div>
 
-[![npm][npm]][npm-url]
-[![deps][deps]][deps-url]
-[![tests][tests]][tests-url]
-[![coverage][cover]][cover-url]
-[![chat][chat]][chat-url]
-
 This plugin extracts CSS into separate files. It creates a CSS file per JS file which contains CSS. It supports On-Demand-Loading of CSS and SourceMaps.
 
 It builds on top of a new webpack v4 feature (module types) and requires webpack 4 to work.
